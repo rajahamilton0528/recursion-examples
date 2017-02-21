@@ -17,6 +17,10 @@ ruby fibonacci.rb 5 #=> 5
 
 ##### Reverse a string
 
+##### Permutations
+
+Get all permutations (without built-in function) for a string. Add a second version that removes duplicates.
+This creates a recursion tree for words of 4 characters or more.
 
 #### More topics
 
