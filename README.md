@@ -17,3 +17,8 @@ ruby fibonacci.rb 5 #=> 5
 
 ##### Reverse a string
 
+
+#### More topics
+
+ * Tail call recursion
+ * Recursion with sorting algorithm
