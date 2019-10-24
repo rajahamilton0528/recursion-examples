@@ -1,3 +1,7 @@
+#
+# the number in the fibonacci sequence (sum of previous two numbers)
+# based on the input
+#
 # no memoization
 # O(n^2) exponential time complexity for recursive version
 def fibonacci(n)
